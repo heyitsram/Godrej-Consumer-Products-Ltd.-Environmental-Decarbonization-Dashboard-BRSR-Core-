@@ -1,4 +1,5 @@
  🌿Godrej-Consumer-Products-Ltd.-Environmental-Decarbonization-Dashboard-BRSR-Core-
+ 
  📌 Executive Summary
 An audit-ready corporate sustainability model built in Microsoft Excel mapping **100+ SEBI BRSR (Principle 6) environmental disclosures** across a 4-year period (**FY 2022-23 to FY 2025-26**).
 
